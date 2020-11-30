@@ -1,0 +1,6 @@
+Dog::=" Man's best friend .. domesticated mammals, not natural wild animals. They were originally bred from wolves. They have been bred by humans , for a long time and were the first animals ever to be domesticated "
+Cat::=" The domestic feline .. small, carnivorous (meat-eating) mammals, of the family Felidae . They are one of the most popular pets in the world. They are kept by humans for hunting rodents and as companions. "
+Cow::=" Are the most common type of large domesticated ungulates. They are a prominent modern member of the subfamily Bovinae  and are most commonly classified collectively as Bos taurus. "
+Lion::=" It has a muscular, deep-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. Groups of females  usually hunt together "
+Chimpanzee::=" Is covered in coarse black hair, but has a bare face, fingers, toes, palms of the hands, and soles of the feet.Have been recorded using tools, modifying sticks, rocks, grass and leaves and using them for hunting "
+Elephant::=" Mammals of the family Elephantidae and the largest existing land animals. Distinctive features  include a long proboscis called a trunk, tusks, large ear flaps, massive legs, and tough but sensitive skin. "

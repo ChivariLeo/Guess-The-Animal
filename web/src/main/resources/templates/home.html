@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <style>
+    p {
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+body {
+  background-size: 100% ;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: black;
+   text-align: center;
+}
+
+    </style>
+
+    <title>Guessing Game</title>
+</head>
+<body background="https://images.unsplash.com/photo-1471893370050-2c1a36cf555c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1957&q=80">
+<div align="center">
+    <h1><i> Guess The Animal Game</i></h1>
+
+    <h3> Based on a short description ,try to guess the animal </h3>
+    <h3>Good luck!</h3>
+
+    <a th:href="@{__${T(leo.game.util.GameMappings).PLAY}__}"
+       th:text="Play">
+        Click to play
+    </a>
+
+    <div class="footer">
+        <p><i>Created by Leo</i></p>
+    </div>
+</div>
+</body>
+</html>
