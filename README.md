@@ -16,4 +16,4 @@ Features of the app include :
    
    
    
-   Note: This app is not intended for commercial use.
+
